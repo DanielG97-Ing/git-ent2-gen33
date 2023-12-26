@@ -1,0 +1,11 @@
+.app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    /*background-image: url('https://cdn0.geoenciclopedia.com/es/posts/8/1/0/tipos_de_clima_18_orig.jpg'); colocar la direccion de las imagenes que se van a descargar de pixabay*/
+    background-image: url('/public/weather.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
